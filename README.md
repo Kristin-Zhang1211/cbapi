@@ -17,8 +17,7 @@ pip install git+https://github.com/Kristin-Zhang1211/cbapi.git
 
 # requirements
 ```
-Python
-Pandas
-Json
-Requests
+pandas
+json
+requests
 ```
